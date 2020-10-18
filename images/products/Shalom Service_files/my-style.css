@@ -1,0 +1,5 @@
+@media (min-width:576px) {
+    .my-container {
+        padding: 0 16px;
+    }
+}
